@@ -1,7 +1,7 @@
 <h1 align="center">🔐 Optimizing User, Group, and Role Management with Access Control and Workflows</h1>
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapsche.smartinternz.com%2Fcertificate%2Fstudent%2Fb71f5aaf3371c2cdfb7a7c0497f569d4&psig=AOvVaw2_Pjhu9WQve2YBWxgb8qJ8&ust=1762162147337000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCDx9mT05ADFQAAAAAdAAAAABAE">
+  <img src="https://apsche.smartinternz.com/assets/student/apsche_certificates/google/assets/Smart.png" width="220" alt="Team Logo">
 </p>
 
 ---
