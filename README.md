@@ -1,7 +1,7 @@
 <h1 align="center">🔐 Optimizing User, Group, and Role Management with Access Control and Workflows</h1>
 
 <p align="center">
-  <img src="https://smartinternz.com/assets/img/logo/smartinternz-logo.svg" width="220" alt="SmartInternz Logo">
+  <img src="[https://smartinternz.com/assets/img/logo/smartinternz-logo.svg" width="220" alt="SmartInternz Logo](https://apsche.smartinternz.com/assets/student/apsche_certificates/google/assets/Smart.png)">
 </p>
 
 ---
