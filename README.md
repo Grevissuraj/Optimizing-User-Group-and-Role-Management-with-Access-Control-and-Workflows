@@ -58,5 +58,7 @@ This project aims to design a **scalable and secure management system** that:
 
 ---
 
-## 📂 Project Structure
+## Demo Video
+[https://drive.google.com/file/d/1wvnIA6z4Bk1pxqirwF9WH_y_i5IBwFsL/view?usp=sharing]
+
 
